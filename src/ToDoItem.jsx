@@ -15,9 +15,6 @@ function ToDoItem(props) {
 export default ToDoItem;
 
 
-
-
-
 /*import React from "react";
 
 function ToDoItem(props) {
