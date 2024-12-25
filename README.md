@@ -1,5 +1,5 @@
 # To-Do List 
-By using React ![image](https://github.com/user-attachments/assets/1824585d-7dc2-43d8-af1c-b7870ae6f466)
+By using React 
 
 
 
