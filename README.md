@@ -4,7 +4,7 @@ By using React
 
 
 ## **Description**
-The ToDo List App is a simple and intuitive web application designed to help users.
+🗒️The ToDo List App is a simple and intuitive web application designed to help users.
 
 
 # URL
