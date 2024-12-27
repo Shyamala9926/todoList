@@ -1,5 +1,5 @@
 # To-Do List 
-By using React 
+By using React.js
 
 
 
